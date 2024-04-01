@@ -68,3 +68,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+-----------------------------------------------
+
+-----------------------------------------------
+Project Algorithm
+
+This is a project to create webapp to play music and calm videos.
+
+For the sake of reading or meditation. 
+
+Extra features later wil include the users able to sign in and put in their details.  
+
+And alos be able to save their journals in their profile.
+
+Step by step
+
+1. Create a Folder on my local computer called "Lofi-nion"
+
+2. Create a ReadMe folder to list step by step process on ho wit is created
+
+3. Create a remote repo and connect the local repo to github
+
+4. Create the Video branch and merge to main
+
+5. Create the Music branch and merge to main
+
+6. Dockerize the web app.
+
