@@ -96,7 +96,3 @@ Step by step
 
 6. Dockerize the web app.
 
-
-
-TP-Link_133A
-
