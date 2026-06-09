@@ -36,7 +36,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Reading Companion - Lofi Music & Calm Videos</h1>
-      <iframe 
+      </header>
+
+    <main>
+      <p>Enjoy your reading with relaxing lofi music and calm videos.</p>
+        <div className="player-container">
+          <h2>Calm Video Player</h2>
+          <iframe 
       width="1120" 
       height="630" 
       src="https://www.youtube.com/embed/4ROrW727q_s?si=GUuooLbWU-dFde_l" 
@@ -47,17 +53,9 @@ function App() {
       allowfullscreen>
         
       </iframe>
-      
-      </header>
-
-    <main>
-        <div className="player-container">
-      
-          <VideoPlayer />
         </div>
-        <p>Enjoy your reading with relaxing lofi music and calm videos.</p>
+        
       </main>
-
 
     </div>
   );
