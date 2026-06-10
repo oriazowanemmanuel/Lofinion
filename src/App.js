@@ -31,14 +31,22 @@ import VideoPlayer from './VideoPlayer';
 
 function App() {
 
-  return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Reading Companion - Lofi Music & Calm Videos</h1>
-      </header>
+return (
+<div className="App">
+  <header className="App-header">
+  <h1>Reading Companion - Lofi Music & Calm Videos</h1>
+  </header>
 
-    <main>
-      <p>Enjoy your reading with relaxing lofi music and calm videos.</p>
+<main>
+
+ <div className="player-container">
+    <h2>Sweet notes</h2>
+          <p>
+        This is a calm video player that provides a soothing visual experience to accompany your reading sessions. It features serene landscapes, gentle animations, and relaxing scenes that create a peaceful atmosphere. Whether you're reading a book, studying, or simply unwinding, this video player offers a tranquil backdrop to enhance your focus and relaxation. Enjoy the calming visuals as you immerse yourself in your reading material.
+      </p>
+  </div>
+
+  <p>Enjoy your reading with relaxing lofi music and calm videos.</p>
         <div className="player-container">
           <h2>Calm Video Player</h2>
           <iframe 
@@ -53,7 +61,7 @@ function App() {
         
       </iframe>
         </div>
-        
+
       </main>
 
     </div>
