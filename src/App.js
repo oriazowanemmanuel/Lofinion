@@ -47,7 +47,7 @@ return (
   </div>
 
   <p>Enjoy your reading with relaxing lofi music and calm videos.</p>
-        <div className="player-container">
+        <div className="App">
           <h2>Calm Video Player</h2>
           <iframe 
       width="1120" 
