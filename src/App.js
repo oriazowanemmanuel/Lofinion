@@ -27,7 +27,6 @@ export default App;
 
 import React from 'react';
 import './App.css';
-
 import VideoPlayer from './VideoPlayer';
 
 function App() {
